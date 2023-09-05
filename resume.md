@@ -4,9 +4,9 @@
 
 # Jonah Bird
 
-:e-mail: Email // birdjc@appstate.edu\
-:computer: LinkedIn // linkedin.com/in/jonahbird\
-:file_folder: Portfolio // jcbird.myportfolio.com
+📧 Email // birdjc@appstate.edu\
+💻 LinkedIn // linkedin.com/in/jonahbird\
+📂 Portfolio // jcbird.myportfolio.com
 
 ---
 
@@ -18,36 +18,36 @@ I am a graduate student pursuing a Masters in Geography and Planning at Appalach
 
 ## Education
 
-:round_pushpin: **Appalachian State University**, Boone, NC\
-:book: MA in Geography (Concentration in Planning)\
-:calendar: August 2022 - May 2024
+📍 **Appalachian State University**, Boone, NC\
+🎓 MA in Geography (Concentration in Planning)\
+🗓️ August 2022 - May 2024
 
-:round_pushpin:**Vanderbilt University**, Nashville, TN\
-:book: BA in Architecture & the Built Environment\
-:calendar: August 2018 - May 2022
+📍**Vanderbilt University**, Nashville, TN\
+🎓 BA in Architecture & the Built Environment\
+🗓️ August 2018 - May 2022
 
 ---
 
 ## Experience
 
-:round_pushpin: **Appalachian State University**, Boone, NC\
-:bookmark: Graduate Assistant\
-:calendar: August 2022 - Present
+📍 **Appalachian State University**, Boone, NC\
+🔖 Graduate Assistant\
+🗓️ August 2022 - Present
 
 - Assist professors in the Department of Geography & Planning with research, teaching, and grading
 - Researching climate-change preparedness in small- to mid-sized towns and cities throughout the Central Appalachian region
 
-:round_pushpin: **Tennessee Department of Transportation**, Nashville, TN\
-:bookmark: Multimodal Planning Office Intern\
-:calendar: May 2023 - August 2023
+📍 **Tennessee Department of Transportation**, Nashville, TN\
+🔖 Multimodal Planning Office Intern\
+🗓️ May 2023 - August 2023
 
 - Researched the effects of transportation on public health, producing a 7500-word manuscript for submission to the Transporation Research Board
 - Developed a set of 10 indicators from this research for use by TDOT and the Tennessee Department of Health
 - Analyzed Strava Metro data in ArcGIS, creating an interactive map and forecasting trip data for visualization and decision-making
 
-:round_pushpin: **Pyxl, Inc**, Nashville, TN\
-:bookmark: Graphic Design Intern\
-:calendar: May 2023 - August 2023
+📍 **Pyxl, Inc**, Nashville, TN\
+🔖 Graphic Design Intern\
+🗓️ May 2023 - August 2023
 
 - Developed and created visual solutions to meet our clients’ needs, both for digital use and for print environments
 - Became highly proficient in Adobe Creative Suite, including Illustrator, Photoshop, and InDesign
