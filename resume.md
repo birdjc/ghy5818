@@ -1,6 +1,5 @@
 
-<img style="float: right;" src="https://media.licdn.com/dms/image/D5603AQFXBSv09wfw-w/profile-displayphoto-shrink_800_800/0/1681934006403?e=1698883200&v=beta&t=Qnc7ic_lma-iQoXQMnYbgn_Uy_b5r1zRYwzv3E3Cebc" width=200/>
-
+<img src="https://media.licdn.com/dms/image/D5603AQFXBSv09wfw-w/profile-displayphoto-shrink_800_800/0/1681934006403?e=1698883200&v=beta&t=Qnc7ic_lma-iQoXQMnYbgn_Uy_b5r1zRYwzv3E3Cebc" width=200/>
 
 # Jonah Bird
 
