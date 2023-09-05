@@ -3,8 +3,8 @@
 
 # Jonah Bird
 
-📧 Email // birdjc@appstate.edu\
-💻 LinkedIn // linkedin.com/in/jonahbird\
+📧 Email // birdjc@appstate.edu \
+💻 LinkedIn // linkedin.com/in/jonahbird \
 📂 Portfolio // jcbird.myportfolio.com
 
 ---
