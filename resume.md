@@ -3,15 +3,15 @@
 
 # Jonah Bird
 
-📧 Email // birdjc@appstate.edu \
-💻 LinkedIn // linkedin.com/in/jonahbird \
-📂 Portfolio // jcbird.myportfolio.com
+[📧 Email // birdjc@appstate.edu](birdjc@appstate.edu) \
+[💻 LinkedIn // linkedin.com/in/jonahbird](linkedin.com/in/jonahbird) \
+[📂 Portfolio // jcbird.myportfolio.com](jcbird.myportfolio.com)
 
 ---
 
 ## Summary
 
-I am a graduate student pursuing a Masters in Geography and Planning at Appalachian State University. I have experience with RStudio, ArcGIS, Adobe Creative Suite, and am now learning the tools of web mapping! I've previously worked with the Tennessee Department of Transportation on research and data visualization projects, and I hope to work in transportation or comprehensive planning after I graduate in May 2024.
+I am a graduate student pursuing a [Masters in Geography and Planning](https://www.appstate.edu/academics/graduate/id/geography-ma) at Appalachian State University. I have experience with RStudio, ArcGIS, Adobe Creative Suite, and am now learning the tools of web mapping! I've previously worked with the [Multimodal Planning Office](https://www.tn.gov/tdot/multimodal-transportation-resources/bicycle-and-pedestrian-program.html) in the Tennessee Department of Transportation on research and data visualization projects, and I hope to work in transportation or comprehensive planning after I graduate in May 2024.
 
 ---
 
