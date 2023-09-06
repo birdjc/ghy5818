@@ -3,9 +3,9 @@
 
 # Jonah Bird
 
-[📧 Email // birdjc@appstate.edu](birdjc@appstate.edu) \
-[💻 LinkedIn // linkedin.com/in/jonahbird](linkedin.com/in/jonahbird) \
-[📂 Portfolio // jcbird.myportfolio.com](jcbird.myportfolio.com)
+[📧 Email // birdjc@appstate.edu](email:birdjc@appstate.edu) \
+[💻 LinkedIn // linkedin.com/in/jonahbird](https://www.linkedin.com/in/jonahbird) \
+[📂 Portfolio // jcbird.myportfolio.com](https://www.jcbird.myportfolio.com)
 
 ---
 
